@@ -1,6 +1,6 @@
 # Sobre Mim.
 
-<img src="./assets/capturatela.png" width="350px" alt="pagina-site">
+<img src="./assets/mockqsou.png" width="350px" alt="foto-de-computador">
 
 > Meu primeiro exemplo de html.
 
