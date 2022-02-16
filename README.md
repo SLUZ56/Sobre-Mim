@@ -16,7 +16,7 @@ O projeto foi voltado nas seguintes tarefas:
 
 ## 🚀 Aprendendo sobre :
 
-   HTML
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 
 
@@ -28,7 +28,7 @@ O projeto foi voltado nas seguintes tarefas:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/selma-1.jpg" width="100px;" alt="Foto de Selma"/><br>
+        <img src="./assets/selma-1.png" width="100px;" alt="Foto de Selma"/><br>
         <sub>
           <b>Selma Dias</b>
         </sub>
